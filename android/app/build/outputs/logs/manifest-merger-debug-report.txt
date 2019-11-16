@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/1227a1e38d2f5ba0097bd65173c6646b/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f2217f9620a264785ca2e8492acb28e1/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/8ce750414275eb25cb30f9fd87af8463/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/759e97058d4f904ba2c6f39bd185b7ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/73ba0bac0317458c8ba9ed95d91b0f6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/07c0254cb2752d20c3728033f2ca3c61/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/732f8d50160cab5a81748a5fb2361c71/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7f745cbc4cca84e7a187d43802045d94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/16f9a8d75e6a1589a577db37c92cd1f2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/97e775f3d541888fba113d39d43f17d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/28aedb8dc45f7c1889c8944615cd9aa5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15e7185291dcb34405db6a1fd1557472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2d323943d5ffc40d588ccc4dc6faf262/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dac3b7adae21fffdd73d81e4424074a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7883b20a96268dc447d8d26d0b3a2b4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13bbb50afae2fc0984ba160d7b70b2eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a1ec49a24733deaa7f6a31559e40288/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/03580111d8f8f776bcfa17a250d386e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d3089fd36fc40d6e5a97f21dc8d8bb00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/bfb51119d1400c8a960109b0ca07176a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/93ffa163feafcc31011250c0a2625e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/710c1124865320fd0d0fbe67bec8bf84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/3c1510a664ff83ce893b930fdd587846/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1d33b39497cf6853d5cdba28f78d0d74/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2c35b5207cfbcc327401fa19529b036e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/da5b4d0dd48e7629603db8a979a7461a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/86dd062e2019cc5b615c1fc7075dc7e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3d044b1114c916bb1e7e4fbd0265d09a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1926e149cfe4ccc385017ccfce045cee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5165fb602b7c0efaf0be899f51fdc9c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9e6df1bd6ab6dc71368014f4304695e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/648313eec653e6bb4d900a7731533930/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/74b842c4422153eb3362f951465ddb33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07c61f90c24b2e6cac9641d78c0910e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/6258d9a3cb3967ea9ba481f4c4bb586a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/bbfdd31d7ac3c6761269f5990154dc33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f942f61034979734260e5db109785fa5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/9b9dac85d273ce78b2d4f99c4d2b704c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/2c7b5cd2c1f44fc741c44265d1ec8970/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/232c3e4fb060fd5395f456ca69cfd2b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/daa3e4aa9c1b63e8e914ed3307971844/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/7bf9347d39a485ec473e45970bcb6292/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/1227a1e38d2f5ba0097bd65173c6646b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/1227a1e38d2f5ba0097bd65173c6646b/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/73ba0bac0317458c8ba9ed95d91b0f6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/73ba0bac0317458c8ba9ed95d91b0f6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/07c0254cb2752d20c3728033f2ca3c61/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/07c0254cb2752d20c3728033f2ca3c61/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/732f8d50160cab5a81748a5fb2361c71/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/732f8d50160cab5a81748a5fb2361c71/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/16f9a8d75e6a1589a577db37c92cd1f2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/16f9a8d75e6a1589a577db37c92cd1f2/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1d33b39497cf6853d5cdba28f78d0d74/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1d33b39497cf6853d5cdba28f78d0d74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/6258d9a3cb3967ea9ba481f4c4bb586a/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/6258d9a3cb3967ea9ba481f4c4bb586a/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/daa3e4aa9c1b63e8e914ed3307971844/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/daa3e4aa9c1b63e8e914ed3307971844/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.confusion.MainActivity
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/1227a1e38d2f5ba0097bd65173c6646b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/1227a1e38d2f5ba0097bd65173c6646b/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f2217f9620a264785ca2e8492acb28e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f2217f9620a264785ca2e8492acb28e1/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/8ce750414275eb25cb30f9fd87af8463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/8ce750414275eb25cb30f9fd87af8463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/759e97058d4f904ba2c6f39bd185b7ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/759e97058d4f904ba2c6f39bd185b7ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/73ba0bac0317458c8ba9ed95d91b0f6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/73ba0bac0317458c8ba9ed95d91b0f6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/07c0254cb2752d20c3728033f2ca3c61/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/07c0254cb2752d20c3728033f2ca3c61/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/732f8d50160cab5a81748a5fb2361c71/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/732f8d50160cab5a81748a5fb2361c71/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7f745cbc4cca84e7a187d43802045d94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7f745cbc4cca84e7a187d43802045d94/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/16f9a8d75e6a1589a577db37c92cd1f2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/16f9a8d75e6a1589a577db37c92cd1f2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/97e775f3d541888fba113d39d43f17d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/97e775f3d541888fba113d39d43f17d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/28aedb8dc45f7c1889c8944615cd9aa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/28aedb8dc45f7c1889c8944615cd9aa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15e7185291dcb34405db6a1fd1557472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15e7185291dcb34405db6a1fd1557472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2d323943d5ffc40d588ccc4dc6faf262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2d323943d5ffc40d588ccc4dc6faf262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dac3b7adae21fffdd73d81e4424074a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dac3b7adae21fffdd73d81e4424074a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7883b20a96268dc447d8d26d0b3a2b4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7883b20a96268dc447d8d26d0b3a2b4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13bbb50afae2fc0984ba160d7b70b2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/13bbb50afae2fc0984ba160d7b70b2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a1ec49a24733deaa7f6a31559e40288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a1ec49a24733deaa7f6a31559e40288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/03580111d8f8f776bcfa17a250d386e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/03580111d8f8f776bcfa17a250d386e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d3089fd36fc40d6e5a97f21dc8d8bb00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d3089fd36fc40d6e5a97f21dc8d8bb00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/bfb51119d1400c8a960109b0ca07176a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/bfb51119d1400c8a960109b0ca07176a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/93ffa163feafcc31011250c0a2625e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/93ffa163feafcc31011250c0a2625e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/710c1124865320fd0d0fbe67bec8bf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/710c1124865320fd0d0fbe67bec8bf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/3c1510a664ff83ce893b930fdd587846/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/3c1510a664ff83ce893b930fdd587846/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/30551709f4ffca4c9c64a4c7367dc22f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1d33b39497cf6853d5cdba28f78d0d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1d33b39497cf6853d5cdba28f78d0d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2c35b5207cfbcc327401fa19529b036e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2c35b5207cfbcc327401fa19529b036e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/da5b4d0dd48e7629603db8a979a7461a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/da5b4d0dd48e7629603db8a979a7461a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/86dd062e2019cc5b615c1fc7075dc7e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/86dd062e2019cc5b615c1fc7075dc7e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3d044b1114c916bb1e7e4fbd0265d09a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3d044b1114c916bb1e7e4fbd0265d09a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1926e149cfe4ccc385017ccfce045cee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1926e149cfe4ccc385017ccfce045cee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5165fb602b7c0efaf0be899f51fdc9c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5165fb602b7c0efaf0be899f51fdc9c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9e6df1bd6ab6dc71368014f4304695e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9e6df1bd6ab6dc71368014f4304695e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/648313eec653e6bb4d900a7731533930/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/648313eec653e6bb4d900a7731533930/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/74b842c4422153eb3362f951465ddb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/74b842c4422153eb3362f951465ddb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07c61f90c24b2e6cac9641d78c0910e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/07c61f90c24b2e6cac9641d78c0910e7/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/6258d9a3cb3967ea9ba481f4c4bb586a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/6258d9a3cb3967ea9ba481f4c4bb586a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/bbfdd31d7ac3c6761269f5990154dc33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/bbfdd31d7ac3c6761269f5990154dc33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f942f61034979734260e5db109785fa5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f942f61034979734260e5db109785fa5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/9b9dac85d273ce78b2d4f99c4d2b704c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/9b9dac85d273ce78b2d4f99c4d2b704c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/2c7b5cd2c1f44fc741c44265d1ec8970/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/2c7b5cd2c1f44fc741c44265d1ec8970/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/232c3e4fb060fd5395f456ca69cfd2b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/232c3e4fb060fd5395f456ca69cfd2b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/daa3e4aa9c1b63e8e914ed3307971844/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/daa3e4aa9c1b63e8e914ed3307971844/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/7bf9347d39a485ec473e45970bcb6292/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/7bf9347d39a485ec473e45970bcb6292/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/theodosiostziomakas/Desktop/React-Native/confusion/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7fce09407479845998e9d88697a8acf9/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/523fa053134d0bb05808767d87d40db6/AndroidManifest.xml:26:13-120
