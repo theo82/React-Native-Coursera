@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/Users/theodosiostziomakas/Desktop/React-Native-Coursera/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/1271f3ac12fa7e5c2bf8208423436240/res/values-pt-rPT/values.xml",

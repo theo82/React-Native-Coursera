@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/theodosiostziomakas/Desktop/React-Native/confusion/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/theodosiostziomakas/Desktop/React-Native-Coursera/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/theodosiostziomakas/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f2217f9620a264785ca2e8492acb28e1/res/values-land/values-land.xml",
