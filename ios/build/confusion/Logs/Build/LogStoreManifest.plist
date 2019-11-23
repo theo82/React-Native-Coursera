@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6EE9B98E-5EE0-434F-853D-5CEEBAEEC511</string>
 		</dict>
+		<key>FE8F816A-9F94-4885-927C-987BCEAE3869</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE8F816A-9F94-4885-927C-987BCEAE3869.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>confusion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>confusion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project confusion with scheme confusion and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596129417.20800495</real>
+			<key>timeStoppedRecording</key>
+			<real>596129419.65250695</real>
+			<key>title</key>
+			<string>Building project confusion with scheme confusion and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FE8F816A-9F94-4885-927C-987BCEAE3869</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
