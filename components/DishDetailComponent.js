@@ -69,6 +69,12 @@ function RenderComments(props) {
 
 class Dishdetail extends Component{
     
+    constructor(props) {
+        super(props);
+        this.state = {
+            favorites: [], // dishId selected by user
+        };
+    };
     markFavorite(dishId) {
         this.setState({ favorites: this.state.favorites.concat(dishId)})
     }
@@ -92,4 +98,4 @@ class Dishdetail extends Component{
     }
 }
 
-export default connect(mapStateToProps)(DishDetail);
+export default connect(mapStateToProps)(Dishdetail);

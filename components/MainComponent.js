@@ -27,15 +27,14 @@ const mapDispatchToProps = dispatch => ({
 })
 
 const MenuNavigator = createStackNavigator({
-    Menu: { screen: Menu,
-       navigationOptions: ({ navigation }) => ({
-        headerLeft: <Icon name = 'menu' size={24}
-          color='white'
-          onPress={() => navigation.toggleDrawer()}
-          />
-       }) 
-    },    
-    Dishdetail: { screen: Dishdetail },
+  Menu: { screen: Menu,
+    navigationOptions: ({ navigation }) => ({ // navigationOptions can be an object or be a function that takes in props 
+        headerLeft: <Icon name='menu' size={24}
+            color='white'
+            onPress={() => navigation.toggleDrawer()}
+            />
+    }) }, 
+    Dishdetail: { screen: Dishdetail }, 
 }, {
     initialRouteName: 'Menu',
     navigationOptions: {
