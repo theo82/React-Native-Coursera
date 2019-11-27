@@ -7,15 +7,15 @@ import { postFavorite } from '../redux/ActionCreators';
 
 const mapStateToProps = state => {
     return {
-      dishes: state.dishes,
-      comments: state.comments,
-      favorites: state.favorites
+        dishes: state.dishes,
+        comments: state.comments,
+        favorites: state.favorites,
     }
-  }
+};
 
-  const mapDispatchToProps = dispatch => ({
-      postFavorite: (dishId) => dispatch(postFavorite(dishId))
-  });
+const mapDispatchToProps = dispatch => ({
+    postFavorite: (dishId) => dispatch(postFavorite(dishId)),
+});
 
 function RenderDish(props) {
     const dish = props.dish;
@@ -24,7 +24,7 @@ function RenderDish(props) {
         return(
             <Card
                 featuredTitle={dish.name}
-                image={{uri: baseUrl + dish.image}}
+                image={ {uri: baseUrl + dish.image}}
                 >
                 <Text style={{margin: 10}}>
                     {dish.description}
@@ -77,13 +77,12 @@ function RenderComments(props) {
 class Dishdetail extends Component{
     
     markFavorite(dishId) {
-        this.props.postFavorite(dishId)
+        this.props.postFavorite(dishId);
     }
 
     static navigationOptions = {
         title: 'Dish Details'
     };
-
     
     render() {
         const dishId = this.props.navigation.getParam('dishId','');
