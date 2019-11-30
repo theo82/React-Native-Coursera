@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Platform, Image, StyleSheet, ScrollView, Text } from 'react-native';
 import { Icon } from 'react-native-elements';
 import Menu from './MenuComponent';
-import Dishdetail from './DishdetailComponent';
+import Dishdetail from './DishDetailComponent';
 import Reservation from './ReservationComponent';
 import Home from './HomeComponent';
 import Contact from './ContactComponent';
