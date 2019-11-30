@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 16 14:57:24 EET 2019
+#Sat Nov 30 07:29:06 EET 2019
 60.set=NATIVE_RESOURCE
 52.set=DEX
 53.base=/Users/theodosiostziomakas/Desktop/React-Native-Coursera/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
