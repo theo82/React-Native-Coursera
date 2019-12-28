@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "expo": "^35.0.0",
+    "expo-secure-store": "^8.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-native": "0.59.10",
