@@ -81,21 +81,21 @@ const HomeNavigator = createStackNavigator({
 });
 
 const ContactNavigator = createStackNavigator({
-    Contact: { screen: Contact },
-}, {
-    navigationOptions: ({ navigation }) => ({
-        headerStyle: {
-            backgroundColor: '#512DA8'
-        },
-        headerTintColor: '#fff',
-        headerTitleStyle: {
-            color: '#fff'
-        },
-        headerLeft: <Icon name='menu' size={24}
-            color='white'
-            onPress={() => navigation.toggleDrawer()}
-            />
-    })
+    Contact: { screen: Contact}
+    }, {
+        navigationOptions: ({ navigation })=> ({
+            headerStyle: {
+                backgroundColor: "#512DA8"
+            },
+            headerTitleStyle: {
+                color: "#fff"
+            },
+            headerTintColor: "#fff",
+            headerLeft: <Icon name = 'menu' size = {24}
+                color='white'
+                onPress = {() => navigation.toggleDrawer()}
+                />
+        })
 });
 
 const AboutNavigator = createStackNavigator({
@@ -201,21 +201,21 @@ const MainNavigator = createDrawerNavigator({
             )
         }    
     },
-    Contact: {
-        screen: ContactNavigator,
-        navigationOptions: {
-            title: 'Contact Us',
-            drawerLabel: 'Contact Us',
-            drawerIcon: ({ tintColor }) => (
-                <Icon
-                    name='address-card'
-                    type='font-awesome'
-                    size={22} // 24 seems a bit big
-                    color={tintColor}
+    Contact:
+    {
+          screen: ContactNavigator,
+          navigationOptions: {
+              title: 'Contact Us',
+              drawerLabel: 'Contact Us',
+              drawerIcon : ({ tintColor }) => (
+                  <Icon 
+                    name = 'address-card'
+                    type = "font-awesome"
+                    size = {22}
+                    color = {tintColor}
                     />
-            )
-
-        }    
+              )
+          }
     },
     About: {
         screen: AboutNavigator,
