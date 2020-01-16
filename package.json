@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "expo": "^35.0.0",
+    "expo-image-picker": "^8.0.2",
     "expo-mail-composer": "^8.0.0",
     "expo-secure-store": "^8.0.0",
     "react": "16.8.3",
