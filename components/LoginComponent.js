@@ -148,6 +148,8 @@ class RegisterTab extends Component {
 
     }
 
+    sdfnsofnsfnsfnsodfnsdofn
+
     processImage = async (imageUri) => {
         let processedImage = await ImageManipulator.manipulate(
             imageUri, 
