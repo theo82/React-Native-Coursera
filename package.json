@@ -15,7 +15,7 @@
     "expo-secure-store": "^8.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-animatable": "1.2.4",
     "react-native-datepicker": "1.7.2",
     "react-native-elements": "^1.0.0-beta8",
